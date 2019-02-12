@@ -2,6 +2,7 @@ import tkinter as tk
 import threading as th
 from random import choice
 from time import sleep
+from sys import platform
 
 
 def main():
@@ -10,10 +11,17 @@ def main():
     root.title('Rock-Paper-Scissors')
     root.resizable(False, False)
     default_bg = root.cget('bg')
+    windows = False
 
-    rock = '\u2BC2'
-    paper = '2'
-    scissors = '\u2700'
+    if platform == 'win32':
+        windows = True
+        rock = '\u2BC2'
+        paper = '2'
+        scissors = '\u2700'
+    else:
+        rock = 'Rock'
+        paper = 'Paper'
+        scissors = 'Scissors'
 
     class RPSButton:
         def __init__(self, master, **kwargs):
@@ -92,17 +100,17 @@ def main():
     p1_content = tk.StringVar()
     cpu_content = tk.StringVar()
 
-    p1_r = RPSButton(p1_frame, font='Wingdings', text=rock, width=3)
-    p1_p = RPSButton(p1_frame, font='Wingdings', text=paper, width=3)
-    p1_s = RPSButton(p1_frame, font='Wingdings', text=scissors, width=3)
+    p1_r = RPSButton(p1_frame, text=rock, width=8)
+    p1_p = RPSButton(p1_frame, text=paper, width=8)
+    p1_s = RPSButton(p1_frame, text=scissors, width=8)
 
     p1_r.button.pack(side='left', padx=5)
     p1_p.button.pack(side='left')
     p1_s.button.pack(side='left', padx=5)
 
-    p1_choice = tk.Button(versus_frame, font='Wingdings', relief='groove', textvariable=p1_content, width=2)
+    p1_choice = tk.Button(versus_frame, relief='groove', textvariable=p1_content, width=4)
     go_button = tk.Button(versus_frame, text='Go!', command=resolve_round)
-    cpu_choice = tk.Button(versus_frame, font='Wingdings', relief='groove', textvariable=cpu_content, width=2)
+    cpu_choice = tk.Button(versus_frame, relief='groove', textvariable=cpu_content, width=4)
 
     p1_choice.pack(side='left', padx=45, pady=5)
     go_button.pack(side='left', pady=5)
@@ -110,9 +118,9 @@ def main():
 
     NotGlobalHehe.cpu_logic.start()
 
-    cpu_r = RPSButton(cpu_frame, font='Wingdings', text='\u2BC2', width=3, state='disabled', relief='sunken')
-    cpu_p = RPSButton(cpu_frame, font='Wingdings', text='2', width=3, state='disabled', relief='sunken')
-    cpu_s = RPSButton(cpu_frame, font='Wingdings', text='\u2700', width=3, state='disabled', relief='sunken')
+    cpu_r = RPSButton(cpu_frame, text=rock, width=8, state='disabled', relief='sunken')
+    cpu_p = RPSButton(cpu_frame, text=paper, width=8, state='disabled', relief='sunken')
+    cpu_s = RPSButton(cpu_frame, text=scissors, width=8, state='disabled', relief='sunken')
 
     cpu_r.button.pack(side='right', padx=5)
     cpu_p.button.pack(side='right')
@@ -140,6 +148,14 @@ def main():
 
     # --- bot_frame ---
     restart_question = tk.Label(bot_frame, text=' ')
+
+    if windows:
+        [x.button.config(font='Wingdings', width=3) for x in (p1_r, p1_p, p1_s, cpu_r, cpu_p, cpu_s)]
+        [x.config(font='Wingdings', width=2) for x in (p1_choice, cpu_choice)]
+    else:
+        warning_bar = tk.Label(bot_frame, text='Non-Windows OS detected! Reverted to text mode.', bg='orange')
+        warning_bar.pack(side='top')
+
     restart_question.pack(side='top')
     restart_btn = tk.Button(bot_frame, height=5, width=15, state='disabled', relief='flat', command=restart_round)
     quit_btn = tk.Button(bot_frame, height=5, width=15, state='disabled', relief='flat', command=exit)
