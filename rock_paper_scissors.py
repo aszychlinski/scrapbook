@@ -40,6 +40,11 @@ def main():
         player_wins = 0
         cpu_wins = 0
 
+    def terminate_running_spinner():
+        NotGlobalHehe.cpu_logic.kill = True
+        sleep(0.1)
+        root.destroy()
+
     def resolve_round():
         if not p1_content.get():
             pass
@@ -140,6 +145,7 @@ def main():
     quit_btn = tk.Button(bot_frame, height=5, width=15, state='disabled', relief='flat', command=exit)
     restart_btn.pack(side='left', expand=1, pady=5), quit_btn.pack(side='left', expand=1, pady=5)
 
+    root.protocol('WM_DELETE_WINDOW', terminate_running_spinner)
     root.mainloop()
 
 
