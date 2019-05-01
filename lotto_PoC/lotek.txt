@@ -1,0 +1,732 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xmlns:fb="http://ogp.me/ns/fb#"
+       xml:lang="pl"
+       lang="pl"
+       dir="ltr">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+	<meta name = "format-detection" content = "telephone=no">
+	<title>LOTEK 482 | Lotto, Kaskada, Multi Multi, Mini Lotto, Zdrapki - lotto.pl</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content=""/>
+
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//lottocdn.directtraffic.pl" />
+
+		<meta property="fb:app_id" content="439776879388885" />
+		<meta property="og:title" content="LOTEK 482" />
+		<meta property="og:description" content="LOTEK 482" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.lotto.pl/zdrapki/lista/lotek-482/" />
+		<meta property="og:image" content="http://www.lotto.pl/sites/default/files/imagecache/zdrapka_facebook_thumb/zdrapki_logo/zdrapki_logo-467.jpg" />
+		<meta property="og:site_name" content="LOTTO" />
+		
+		
+<link rel="shortcut icon" href="https://lottocdn.directtraffic.pl/sites/default/files/basic_favicon_1.ico" type="image/x-icon" />
+<meta name="keywords" content="lotto,milionerzy,multi multi,kaskada,mini lotto,keno,wyniki" />
+<meta name="description" content="Zapraszamy na lotto.pl zawsze aktualne wyniki, wygrane, statystyki, archiwa, losowania na żywo - wszystko jest tutaj!" />
+<meta name="revisit-after" content="7 days" />
+	<!-- CSS aggregated by CDN module. -->
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_bd32fcfa8cce20c489b57cba6bccab40_zdrapka_style.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_980ff9bdd9fc28d33e76e2ce148f972a_wysokie_wygrane.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_52f6337c599654596605f8ea0bd0c4f0_node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_da4eeaaf292a44608740b0ac9d4d5e7e_defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_afe898adf5807581ffc7f71a1367f2d8_system.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_3d7add920c103b9c6bb40b9d30fd89a0_system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_147ff571f64d5f8f89e1ca83b4bf4372_user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_cb4166e77eb97254908c7e3977e02ad3_content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_7212a4909ddadf93bde64ad905a36b12_colorbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_9b697ca8dcb89d0e2fbec0a9b053e2a9_ctools.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_f76aae1c2d365b930d092924faae6376_custompage.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_8c11498762c5383f0bea104389e31a5e_datepicker.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_963ee77c19f865b5340827004aef937e_jquery.timeentry.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_56133ac745479eb712eb45a4da6d5c85_filefield.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_bb1a7e8a613c3f90bcd16bb6452ef9a6_panels.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_f29c13a633ffc2728e0c7255514a5db7_thickbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_c0beeaf4a0e27562496d91b51e65c21c_thickbox_ie.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_e2c5c64b847fd4e7925dba476f924fdf_fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_b8f48097810a7897d44c94c83a4d2151_views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_a5207caceb7fdbc9717f8e5f52c78cb6_bootstrap.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_2726f9a30497f0132fc91d96c43f06d3_owl.carousel.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_c1b935455f6b42e7309ab16d2895f422_animate.min.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_a99c217f84c44608d62ff34f1174bbbb_awesome-bootstrap-checkbox.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_00c915fa8fa0c5af6f19dc2888af4479_font-awesome.min.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_9a8bad14bbfc0d440b2a25ee7a1c786e_slick.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_470dc1de5e08271828e2816b70cc0939_style.css" />
+<link type="text/css" rel="stylesheet" media="print" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_bd230d56bf413c0933eebb1bbd50fb61_print.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="https://lottocdn.directtraffic.pl/sites/default/files/css/cdn_css_https_2d8d805db050a5c5e17d04653a5900d0_tabs.css" />
+<!-- CSS aggregated by CDN module. -->
+	<link rel="stylesheet" href="https://use.typekit.net/vup1dbo.css">
+		<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/misc/drupal.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/default/files/languages/pl_ef79c334ec72a0a7849032bca763887f.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/beautytips/js/jquery.bt.min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/beautytips/js/beautytips.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js_new/jquery.colorbox-min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox_load.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/colorbox/js/colorbox_inline.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/google_analytics/googleanalytics.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/panels/js/panels.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/modules/thickbox/thickbox.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js/swfobject.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js_new/tether.min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/bootstrap-4.0.0-alpha.6/dist/js/bootstrap.min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js_new/owl.carousel.min.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js_new/slick.js?l"></script>
+<script type="text/javascript" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/js_new/frontend.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","beautytips":{".beautytips":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\"lucida grande\",tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":".beautytips","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]}},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} z {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Zamknij","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"thickbox":{"close":"Zamknij","next":"Nast\u0119pny \u003e","prev":"\u003c Poprzedni","esc_key":" ","next_close":"Next \/ Close on last","image_count":"!current z !total"}});
+//--><!]]>
+</script>
+
+	    </head>
+
+    <body class="not-front not-logged-in page-zdrapki no-sidebars zdrapki zdrapki_podstrona with-navigation page-zdrapki-lista-lotek-482 section-zdrapki">
+	<!-- Google Tag Manager -->
+	<noscript>
+	    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX8FC5"
+		    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<script>
+	    (function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+		    'gtm.start': new Date().getTime(),
+		    event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	    })(window, document, 'script', 'dataLayer', 'GTM-TX8FC5');
+	</script>
+	<!-- End Google Tag Manager -->
+	<noscript>
+	    <div class="no_script_info">Do poprawnego korzystania z serwisu
+		konieczne jest włączenie obsługi języka Java Script.</div>
+	</noscript>
+
+	<!--[if lte IE 6]>
+		<div class="no_script_info">
+			Do poprawnego korzystania z serwisu konieczna jest nowsza wersja przeglądarki Internet Explorer.
+		</div>
+	<![endif]-->
+
+			<div class="overflowMain gamesPages">
+		<div id="header">
+			<div>
+				<div>GRAJ PRZEZ INTERNET!</div>
+				<a href="https://gry.lotto.pl/pl/lotto.html" onclick="_gaq.push(['_trackEvent', 'ZakladyOnline', 'Header', 'Lotto']);" target="_blank">
+					<img src="/sites/default/files/svg/lotto_gra.svg" alt="" class="gra_lotto">
+				</a>
+				<a href="https://gry.lotto.pl/pl/eurojackpot.html" onclick="_gaq.push(['_trackEvent', 'ZakladyOnline', 'Header', 'Eurojackpot']);" target="_blank">
+					<img src="/sites/default/files/svg/eurojackpot.svg" alt="" class="gra_eurojackpot">
+				</a>
+				<a href="https://gry.lotto.pl/pl/mini-lotto.html" onclick="_gaq.push(['_trackEvent', 'ZakladyOnline', 'Header', 'MiniLotto']);" target="_blank">
+					<img src="/sites/default/files/svg/mini-lotto.svg" alt="" class="gra_mini_lotto">
+				</a>
+				<a class="hidden-lg-down" href="https://gry.lotto.pl/pl/home.html" onclick="_gaq.push(['_trackEvent', 'ZakladyOnline', 'Header', 'ZagrajTeraz']);" target="_blank">ZAGRAJ TERAZ</a>
+			</div>
+		</div>
+	    <header>
+		<nav class="navbar navbar-toggleable-lg navbar-light">
+		    <div class="row">
+			<div class="col-xl-2 col-md-1 col-sm-2 col-3 pr-0">
+			    			    <a title="Strona główna" href="/" class="navbar-brand">
+				<img src="/sites/default/files/svg/lotto_z_bialym_obrysem.svg" alt="Strona główna">
+			    </a>
+			    <span class="opacityMenu hidden-md-up"></span>
+			</div>
+			    			<div class="col-xl-10 col-md-11 col-sm-10 col-9 pl-0 pr-0">
+    			    <div class="row">
+
+    				<div class="col-xl-9 col-12">
+					  <div class="menu-block-1 menu-name-primary-links parent-mlid-1163 menu-level-1">
+  <div id="rotatorTop" class=""><div class="item leaf first menu-mlid-711 has-children id"><a href="/lotto" class="gra_lotto"><img src="/sites/default/files/svg/gra_lotto.svg" alt="" class="img-fluid gra_lotto" /></a></div>
+<div class="item leaf menu-mlid-32282 has-children id"><a href="/eurojackpot" class="gra_eurojackpot"><img src="/sites/default/files/svg/gra_eurojackpot.svg" alt="" class="img-fluid gra_eurojackpot" /></a></div>
+<div class="item leaf menu-mlid-27474 has-children id"><a href="/ekstra-pensja" class="gra_ekstra_pensja"><img src="/sites/default/files/svg/gra_ekstra_pensja.svg" alt="" class="img-fluid gra_ekstra_pensja" /></a></div>
+<div class="item leaf menu-mlid-716 has-children id"><a href="/multi-multi" class="gra_multi_multi"><img src="/sites/default/files/svg/gra_multi_multi.svg" alt="" class="img-fluid gra_multi_multi" /></a></div>
+<div class="item leaf menu-mlid-718 has-children id"><a href="/mini-lotto" class="gra_mini_lotto"><img src="/sites/default/files/svg/gra_mini_lotto.svg" alt="" class="img-fluid gra_mini_lotto" /></a></div>
+<div class="item leaf menu-mlid-717 has-children id"><a href="/kaskada" class="gra_kaskada"><img src="/sites/default/files/svg/gra_kaskada.svg" alt="" class="img-fluid gra_kaskada" /></a></div>
+<div class="item leaf menu-mlid-30629 has-children id"><a href="/super-szansa" class="gra_super_szansa"><img src="/sites/default/files/svg/gra_super_szansa.svg" alt="" class="img-fluid gra_super_szansa" /></a></div>
+<div class="item leaf menu-mlid-720 has-children active-trail id"><a href="/zdrapki" class="gra_zdrapki active-trail"><img src="/sites/default/files/svg/gra_zdrapki.svg" alt="" class="img-fluid gra_zdrapki active-trail" /></a></div>
+<div class="item leaf last menu-mlid-721 has-children id"><a href="/keno" class="gra_keno"><img src="/sites/default/files/svg/gra_keno.svg" alt="" class="img-fluid gra_keno" /></a></div>
+</div></div>
+ 
+    				</div>
+    				<div class="col-xl-3 col-12 hamburgerBox">
+    				    <button class="btnHamburger hidden-xl-up" type="button">
+    					<span class="opacityMenu hidden-md-up"></span>
+    					<span class="navbar-toggler-icon"></span>
+    					<span class="navbar-toggler-icon"></span>
+    					<span class="navbar-toggler-icon"></span>
+    				    </button>
+								    
+					      
+<div id="block-block-58" class="block_user_access">
+    <div class="block_top"></div>
+        <div class="d-block newsletterHeader hidden-lg-down"><i class="fa fa-lock"></i><a href="/konto/logowanie">Zarządzaj newsletterem</a></div>
+    </div>
+					    				    <div class="" id="navbarSupportedContent">
+					    <form action="/zdrapki/lista/lotek-482"  accept-charset="UTF-8" method="post" id="search-theme-form"><div><div id="search" class="container-inline">
+  <div  id="edit-search-theme-form-1-wrapper" class="form-item">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" class="form-text form-control" onblur="if (this.value == &#039;&#039;) {this.value = &#039;&#039;;} ;" onfocus="if (this.value == &#039;&#039;) {this.value = &#039;&#039;;} ;" />
+</div>
+<button type="submit" name="op" id="edit-submit" value="Szukaj"  class="form-submit btn btn-secondary">
+<img src="/sites/all/themes/basic/images/search_button2.png" alt="" class="img-fluid hidden-lg-down" ><img src="/sites/all/themes/basic/images/svg/search.svg" alt="" class="img-fluid hidden-xl-up" ></button><input type="hidden" name="form_build_id" id="form-2b383fe6cf5e4165d3958b60304b9b60" value="form-2b383fe6cf5e4165d3958b60304b9b60"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+</div></form>
+    					<div class="menuBox hidden-xl-up">
+    					    <ul class="navbar-nav">
+
+						    							<li class="nav-item">
+							    <a class="nav-link" href="/konto/logowanie">Logowanie</a>
+							</li>
+						    
+
+    						<li class="nav-item">
+    						    <a class="nav-link" href="/wyniki-gier">Wyniki gier</a>
+    						</li>
+    						<li class="nav-item">
+    						    <a class="nav-link" href="/wysokie-wygrane">Wysokie wygrane
+    						    </a>
+    						</li>
+    						<li class="nav-item">
+    						    <a class="nav-link" href="/mapa-wygranych">Mapa wygranych
+    						    </a>
+    						</li>
+    						<li class="nav-item dropdown">
+    						    <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+    						       aria-haspopup="true"
+    						       aria-expanded="false">
+    							Studio LOTTO
+    							<i class="fa fa-angle-down hidden-xl-up"></i>
+    						    </a>
+    						    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+    							<a class="dropdown-item" href="/studio-lotto">Na żywo</a>
+    							<a class="dropdown-item" href="/studio-lotto/archiwum-losowan">Archiwum</a>
+    							<a class="dropdown-item" href="/studio-lotto/goscie">Goście</a>
+    							<a class="dropdown-item" href="https://www.youtube.com/user/TotalizatorSportowy/videos">Wideo</a>
+    							<a class="dropdown-item" href="/studio-lotto/faq">Pytania i odpowiedzi</a>
+    						    </div>
+    						</li>
+    					    </ul>
+    					</div>
+    					<div class="socialBox hidden-xl-up">
+						    					</div>
+    				    </div>
+    				</div>
+    			    </div>
+    			</div>
+				
+		    </div>
+		</nav>
+	    </header>
+
+	    	    	        	    <section class="breadcrumbBox">
+		      
+<div id="block-block-13" class="">
+    <div class="block_top"></div>
+        <nav class="breadcrumb"><span class="start_txt">Jesteś w:</span> <span class="breadcrumb-item"><a href="/">LOTTO</a></span><span class="breadcrumb-item"><a href="/gry">Gry</a></span><span class="breadcrumb-item"><a href="/zdrapki" class="gra_zdrapki">Zdrapki</a></span><span class="breadcrumb-item"><a href="/zdrapki/lista" title="Zobacz wszystkie Zdrapki">Zobacz wszystkie Zdrapki</a></span><span class="breadcrumb-item active">LOTEK 482</span><span class="logo_game"></span></nav><a href="" class="hidden-xl-up menuOpener">MENU</a>    </div>
+    	    </section>
+	    
+	    	    	    <section>
+		<div class="contentBox">
+		    <div class="content">
+			<div class="contentMain gamesMain">
+
+			    				<div class="message_frame"></div>
+<script type="text/javascript">
+		jQuery(document).ready(function(){
+		
+		jQuery('.messages_close').click(function(){
+			jQuery(this).parents('.messages').slideUp('slow');
+		});
+		
+   		//jQuery('.messages').fadeTo(5000,1).fadeOut('slow');
+   				
+		});
+		
+
+		</script>			    			        			    <div class="row">
+    				<div class="col-xl-3 col-12">
+										      <div class="menuLeft">
+    <div class="block_top"><a class="hidden-xl-up" href="">MENU <i
+		class="fa fa-angle-right"></i> </a></div>
+    <div class="contentMenuLeft">
+	<div class="menu-block-5 menu-name-primary-links parent-mlid-1163 menu-level-2">
+  <div  ><div class="collapsed first menu-mlid-11147 aktualno-ci"><a href="/zdrapki/aktualnosci">Aktualności</a></div>
+<div class="item leaf menu-mlid-30024 najwy-sze_wygrane"><a href="/zdrapki/najwyzsze_wygrane">Najwyższe wygrane</a></div>
+<div class="collapsed menu-mlid-2183 nowo-ci_w_ofercie"><a href="/zdrapki/nowosci" title="Nowości w ofercie">Nowości w ofercie</a></div>
+<div class="expanded menu-mlid-2182 active-trail zobacz_wszystkie_zdrapki"><a href="/zdrapki/lista" title="Zobacz wszystkie Zdrapki" class="active-trail">Zobacz wszystkie Zdrapki</a><div  ><div class="item leaf first menu-mlid-53498 super_7_485"><a href="/zdrapki/lista/super-7-485">SUPER 7 485</a></div>
+<div class="item leaf menu-mlid-53497 ekstra_pensja-_486"><a href="/zdrapki/lista/ekstra-pensja-486">EKSTRA PENSJA! 486</a></div>
+<div class="item leaf menu-mlid-53496 szcz-liwe_linie_484"><a href="/zdrapki/lista/szczesliwe-linie-484">SZCZĘŚLIWE LINIE 484</a></div>
+<div class="item leaf menu-mlid-52492 active active-trail lotek_482"><a href="/zdrapki/lista/lotek-482" class="active-trail active">LOTEK 482</a></div>
+<div class="item leaf menu-mlid-52486 szybkie_10_480"><a href="/zdrapki/lista/szybkie-10-480">SZYBKIE 10 480</a></div>
+<div class="item leaf menu-mlid-52485 kasa_w_sejfie_483"><a href="/zdrapki/lista/kasa-w-sejfie-483">KASA W SEJFIE 483</a></div>
+<div class="item leaf menu-mlid-52482 id500_000_z-_w_banku_481"><a href="/zdrapki/lista/500-000-zl-w-banku-481">500 000 ZŁ W BANKU 481</a></div>
+<div class="item leaf menu-mlid-51470 czarny_ko-_478"><a href="/zdrapki/lista/czarny-kon-478">CZARNY KOŃ 478</a></div>
+<div class="item leaf menu-mlid-51460 id250_000_z-_w_banku_477"><a href="/zdrapki/lista/250-000-zl-w-banku-477">250 000 ZŁ W BANKU 477</a></div>
+<div class="item leaf menu-mlid-51454 neonowe_7_479"><a href="/zdrapki/lista/neonowe-7-479">NEONOWE 7 479</a></div>
+<div class="item leaf menu-mlid-51453 super_prezent_467"><a href="/zdrapki/lista/super-prezent-467">SUPER PREZENT 467</a></div>
+<div class="item leaf menu-mlid-51451 kocham_zdrapki_473"><a href="/zdrapki/lista/kocham-zdrapki-473">KOCHAM ZDRAPKI 473</a></div>
+<div class="item leaf menu-mlid-51442 lucky_777_476"><a href="/zdrapki/lista/lucky-777-476">LUCKY 777 476</a></div>
+<div class="item leaf menu-mlid-51441 multiforsa_474"><a href="/zdrapki/lista/multiforsa-474">MULTIFORSA 474</a></div>
+<div class="item leaf menu-mlid-51438 wielkanocna_gra_475"><a href="/zdrapki/lista/wielkanocna-gra-475">WIELKANOCNA GRA 475</a></div>
+<div class="item leaf menu-mlid-50422 i_love_lotek_472"><a href="/zdrapki/lista/i-love-lotek-472">I love Lotek 472</a></div>
+<div class="item leaf menu-mlid-50407 lucky_77_471"><a href="/zdrapki/lista/lucky-77-471">LUCKY 77 471</a></div>
+<div class="item leaf menu-mlid-50375 kopalnia_diament-w_-_gra_nr_470"><a href="/zdrapki/lista/kopalnia-diamentow-gra-nr-470">KOPALNIA DIAMENTÓW - gra nr 470</a></div>
+<div class="item leaf menu-mlid-50374 g-ra_kasy_-_gra_nr_468"><a href="/zdrapki/lista/gora-kasy-gra-nr-468">GÓRA KASY - GRA NR 468</a></div>
+<div class="item leaf menu-mlid-50367 super_linie_469"><a href="/zdrapki/lista/super-linie-469">SUPER LINIE 469</a></div>
+<div class="item leaf menu-mlid-50347 m-j_pierwszy_milion_466"><a href="/zdrapki/lista/moj-pierwszy-milion-466">MÓJ PIERWSZY MILION 466</a></div>
+<div class="item leaf menu-mlid-50346 id500_przez_365_dni_465"><a href="/zdrapki/lista/500-przez-365-dni-465">500 PRZEZ 365 DNI 465</a></div>
+<div class="item leaf menu-mlid-50341 czas_na_prezent_463"><a href="/zdrapki/lista/czas-na-prezent-463">CZAS NA PREZENT 463</a></div>
+<div class="item leaf menu-mlid-49325 drzewko_szcz-cia_0464"><a href="/zdrapki/lista/drzewko-szczescia-0464">Drzewko szczęścia 0464</a></div>
+<div class="item leaf menu-mlid-49322 pensja_462"><a href="/zdrapki/lista/pensja-462">PENSJA 462</a></div>
+<div class="item leaf menu-mlid-49319 pude-ko_czekoladek_461"><a href="/zdrapki/lista/pudelko-czekoladek-461">PUDEŁKO CZEKOLADEK 461</a></div>
+<div class="item leaf menu-mlid-49299 id-wi-teczny_kalendarz_460"><a href="/zdrapki/lista/swiateczny-kalendarz-460">ŚWIĄTECZNY KALENDARZ 460</a></div>
+<div class="item leaf menu-mlid-46316 premia_777_459"><a href="/zdrapki/lista/premia-777-459">PREMIA 777 459</a></div>
+<div class="item leaf menu-mlid-44315 krzy-wka_xxl_456"><a href="/zdrapki/lista/krzyzowka-xxl-456">Krzyżówka XXL 456</a></div>
+<div class="item leaf menu-mlid-44314 super_7_457"><a href="/zdrapki/lista/super-7-457">SUPER 7 457</a></div>
+<div class="item leaf menu-mlid-44313 ekstra_pensja_458"><a href="/zdrapki/lista/ekstra-pensja-458">Ekstra Pensja 458</a></div>
+<div class="item leaf menu-mlid-43062 czarny_kot_455"><a href="/zdrapki/lista/czarny-kot-455">Czarny Kot 455</a></div>
+<div class="item leaf menu-mlid-42052 mega_pensja_454"><a href="/zdrapki/lista/mega-pensja-454">MEGA PENSJA 454</a></div>
+<div class="item leaf menu-mlid-42045 lotek_452"><a href="/zdrapki/lista/lotek-452">LOTEK 452</a></div>
+<div class="item leaf menu-mlid-42035 id1_000_000_z-_w_banku_450"><a href="/zdrapki/lista/1-000-000-zl-w-banku-450">1 000 000 ZŁ W BANKU 450</a></div>
+<div class="item leaf menu-mlid-42034 id500_od_r-ki_451"><a href="/zdrapki/lista/500-od-reki-451">500 OD RĘKI 451</a></div>
+<div class="item leaf menu-mlid-41019 szcz-liwe_linie_0448"><a href="/zdrapki/lista/szczesliwe-linie-0448">SZCZĘŚLIWE LINIE 0448</a></div>
+<div class="item leaf menu-mlid-41018 krzy-wka_449"><a href="/zdrapki/lista/krzyzowka-449">KRZYŻÓWKA 449</a></div>
+<div class="item leaf menu-mlid-41017 joker_0447"><a href="/zdrapki/lista/joker-0447">Joker 0447</a></div>
+<div class="item leaf menu-mlid-40011 krzy-wka_xl_445"><a href="/zdrapki/lista/krzyzowka-xl-445">KRZYŻÓWKA XL 445</a></div>
+<div class="item leaf menu-mlid-39012 id5_x_kasa_443"><a href="/zdrapki/lista/5-x-kasa-443">5 X KASA 443</a></div>
+<div class="item leaf menu-mlid-38995 deszcz_pieni-dzy_442"><a href="/zdrapki/lista/deszcz-pieniedzy-442">DESZCZ PIENIĘDZY 442</a></div>
+<div class="item leaf menu-mlid-38989 id500_000_z-_w_banku__440"><a href="/zdrapki/lista/500-000-zl-w-banku-440">500 000 zł w Banku  440</a></div>
+<div class="item leaf menu-mlid-38986 super_prezent_435"><a href="/zdrapki/lista/super-prezent-435">SUPER PREZENT 435</a></div>
+<div class="item leaf menu-mlid-37984 polska_gola-__437"><a href="/zdrapki/lista/polska-gola-437">POLSKA GOLA!!!  437</a></div>
+<div class="item leaf menu-mlid-37962 id1_rok_wakacji_432"><a href="/zdrapki/lista/1-rok-wakacji-432">1 ROK WAKACJI 432</a></div>
+<div class="item leaf menu-mlid-37957 id10_x_kasa_431"><a href="/zdrapki/lista/10-x-kasa-431">10 x KASA 431</a></div>
+<div class="item leaf menu-mlid-37952 casino_de_luxe_430"><a href="/zdrapki/lista/casino-de-luxe-430">CASINO DE LUXE 430</a></div>
+<div class="item leaf menu-mlid-37951 wielka_zdrapka_777_426"><a href="/zdrapki/lista/wielka-zdrapka-777-426">Wielka Zdrapka 777 426</a></div>
+<div class="item leaf menu-mlid-37938 win-go_400"><a href="/zdrapki/lista/win-go-400">Win-Go 400</a></div>
+<div class="item leaf menu-mlid-32500 szybki_milion_421"><a href="/zdrapki/lista/szybki-milion-421">SZYBKI MILION 421</a></div>
+<div class="item leaf menu-mlid-32492 podw-jna_kasa_418"><a href="/zdrapki/lista/podwojna-kasa-418">PODWÓJNA KASA 418</a></div>
+<div class="item leaf menu-mlid-32482 i_-_cash_415"><a href="/zdrapki/lista/i-%E2%99%A5-cash-415">I ♥ CASH 415</a></div>
+<div class="item leaf menu-mlid-32139 szafiry_rubiny_szmaragdy_0394"><a href="/zdrapki/lista/szafiry-rubiny-szmaragdy-0394">SZAFIRY RUBINY SZMARAGDY 0394</a></div>
+<div class="item leaf last menu-mlid-30533 giga_-ycie_0347"><a href="/zdrapki/lista/giga-zycie-0347">Giga Życie 0347</a></div>
+</div></div>
+<div class="item leaf last menu-mlid-12343 archiwum_zdrapek"><a href="/zdrapki/archiwum">Archiwum zdrapek</a></div>
+</div></div>
+	 
+    </div>
+    <div class="block_footer hidden-lg-down"></div>
+</div>
+										    				</div>
+								    				<div class="col-xl-9 col-12">
+				    				    
+					    					    					    					    					    				    				    				    
+
+				    
+				    																										<div class="page_title">
+								<div class="page_title_top"></div>
+								<div class="page_title_repeat">
+									<h1 class="title">
+											LOTEK 482									</h1>
+								</div>
+								<div class="page_title_bottom"></div>
+							</div>
+											    				    				    
+				                                            				    <div class="pageContent hideOnGamesPage">
+	
+    					<div class="page_top"></div>
+    					<div class="page_repeat accordionMain alwaysOpen">
+
+						
+						<div class="zdrapka_szczegoly_nowosc"></div><div class="zdrapka_mini_txt" style="font-size: 14px; color: #000; clear: both;"><p style="text-align: center;"><strong>Słonik LOTEK przynosi szczęście! Wygraj 21 x 40 000 zł.</strong></p></div><div class="zdrapkaIframe" style="text-align: center; clear: both; margin-bottom: 22px"><iframe src="/sites/all/modules/custom/gry/zdrapki/zdrapka/index.php?id=467" width="610" height="335" frameborder="0" scrolling="no"></iframe></div><p style="font-weight: bold; color: #000;">Zdrap zdrapkę kursorem myszki! Zobacz jak się wygrywa!</p><div class="zdrapka_data"><div class="zdrapka_main row"><div class="col-sm-6"><div class="zdrapka_main_box"><div class="zdrapka_main_name">LOTEK 482</div><div class="zdrapka_main_price">Cena losu 1.00 zł</div></div></div><div class="col-sm-6 zdrapka_main_vote_box"><div class="zdrapka_main_box"><div class="zdrapka_main_vote"><span>Popularność</span><br /><div class="zdrapka_main_vote_row"><span>Głosów: <b>4229</b></span><a data-id="oddaj_glos_467" href="/zdrapki/zdrapka_gloosuj/467" class="zdrapki_button_vote" onclick="javascript:_gaq.push(['_trackEvent', 'ListaZdrapek', 'DodajPunkt', 'LOTEK-482']);"></a></div><div class="zdrapka_main_likebox" style="clear:both;margin-top:10px;width:100%;display:block;float:left">
+		    <div id="fb-root"></div>
+		    <script>(function(d, s, id) {
+		      var js, fjs = d.getElementsByTagName(s)[0];
+		      if (d.getElementById(id)) return;
+		      js = d.createElement(s); js.id = id;
+		      js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1&appId=194577137303709";
+		      fjs.parentNode.insertBefore(js, fjs);
+		    }(document, 'script', 'facebook-jssdk'));</script>
+		    <fb:like href="http://www.lotto.pl//zdrapki/lista/lotek-482" send="false" layout="button_count" width="100" show_faces="false"></fb:like>
+		    </div></div><div class="zdrapka_main_facebook"></div></div></div><div class="col-sm-6"><div class="zdrapka_mini_description"><div class="zdrapka_mini_actual_winner"><br /><div class="apnw">Aktualna pula na wygrane: <b>17 417 938 złotych</b></div><table class="table_aktualne_wygrane"><tr class="larger_row_aw"><td class="ilosc" style="text-align: right;">20</td><td class="seperator">x</td><td class="kwota"><strong>40 000 złotych</strong></td></tr><tr><td class="ilosc" style="text-align: right;">341</td><td class="seperator">x</td><td  class="kwota">1 000 złotych</td></tr><tr><td class="ilosc" style="text-align: right;">676</td><td class="seperator">x</td><td  class="kwota">500 złotych</td></tr><tr><td class="ilosc" style="text-align: right;">3 368</td><td class="seperator">x</td><td  class="kwota">80 złotych</td></tr><tr><td class="ilosc" style="text-align: right;">16 881</td><td class="seperator">x</td><td  class="kwota">40 złotych</td></tr></table></div></div></div></div></div><div class="zdrapka_data_desciption"><p><strong>Instrukcja dla grających:</strong></p><p>Znajdź "Słonia" pod warstwą&nbsp; ścieralną i wygraj kwotę z pola wygrana.</p><p><strong>2x "Słoń" podwaja wygraną</strong></p><p style="text-align: center;"><strong>Nakład </strong><strong>35 000 000 losów</strong></p><p align="center"><strong>Główne wygrane:</strong></p><table style="width: 600px;" width="50%" cellspacing="1" cellpadding="2" border="1" align="center"><tbody><tr><td><div align="center"><strong>Liczba wygranych</strong></div></td><td><div align="center"><strong>Wartość wygranych</strong></div></td></tr><tr><td style="width: 283px; text-align: center;">21</td><td><div align="center">40 000 zł</div></td></tr><tr><td style="width: 283px; text-align: center;">350</td><td style="text-align: center;">&nbsp;1 000 zł</td></tr></tbody></table><p align="center"><strong>Ponadto do wygrania:</strong></p><table style="width: 600px;" width="50%" cellspacing="1" cellpadding="2" border="1" align="center"><tbody><tr><td><div align="center"><strong>Liczba wygranych</strong></div></td><td><div align="center"><strong>Wartość wygranych</strong></div></td></tr><tr><td><div align="center">700</div></td><td><div align="center">500 zł</div></td></tr><tr><td style="text-align: center;">3 500</td><td><div align="center">80 zł</div></td></tr><tr><td style="text-align: center;">17 500</td><td style="text-align: center;">40 zł</td></tr><tr><td style="text-align: center;">87 500</td><td style="text-align: center;">20 zł</td></tr><tr><td style="text-align: center;">210 000</td><td style="text-align: center;">10 zł</td></tr><tr><td style="text-align: center;">262 500</td><td style="text-align: center;">5 zł</td></tr><tr><td style="text-align: center;">350 000</td><td style="text-align: center;">4 zł</td></tr><tr><td style="text-align: center;">1 487 500</td><td style="text-align: center;">2 zł</td></tr><tr><td style="text-align: center;">5 950 000</td><td style="text-align: center;">1 zł</td></tr></tbody></table><p style="text-align: center;"><strong>Wygrane:</strong></p><table width="600" height="42" cellspacing="1" cellpadding="3" border="1" align="center"><tbody><tr><td style="width: 152px; text-align: center;">29.04.2019</td><td style="width: 152px; text-align: center;">Elbląg</td><td style="width: 152px; text-align: center;"><a class="colorbox-load" href="/sites/default/files/zdrapki_rotator/ostatnia_wygrana_zdrapka-1975.jpg">Zwycięski los »</a></td></tr></tbody></table><p>&nbsp;</p><p><strong>Totalizator Sportowy Sp. z o.o. &nbsp;informuje, że termin rozpoczęcia sprzedaży losów loterii pieniężnej "LOTEK" gra nr 0482 został ustalony na dzień 23.04.2019 r.</strong></p></div><div class="zdrapka_data_desciption_pdf"><ul><li><a target="_blank" href="/sites/default/files/pdf/zdrapki/regulamin-467.pdf" class="pdf">Regulamin</a></li><li><a target="_blank" href="/sites/default/files/pdf/zdrapki/informacje_dodatkowe-467.pdf" class="pdf">Informacje dodatkowe</a></li><li><a target="_blank" href="/sites/default/files/pdf/Informacja%20o%20przetwarzaniu%20danych%20osobowych.pdf" class="pdf">Informacja o przetwarzaniu danych osobowych</a></li></ul></div><div class="zdrapki_navigation"><div class="zdrapka_prev"><a href="/zdrapki/lista/szybkie-10-480" class="prev_btn" >Poprzedznia zdrapka</a><span class="imgpg"><img src="https://lottocdn.directtraffic.pl/sites/default/files/imagecache/zdrapka_paginator_thumb/zdrapki_logo/zdrapki_logo-466.jpg" alt="SZYBKIE 10 480" title="SZYBKIE 10 480"  width="72" height="36" /></div><div class="zdrapka_next"><a href="/zdrapki/lista/szczesliwe-linie-484" class="next_btn" >Następna zdrapka</a><span class="imgpg"><img src="https://lottocdn.directtraffic.pl/sites/default/files/imagecache/zdrapka_paginator_thumb/zdrapki_logo/zdrapki_logo-468.jpg" alt="SZCZĘŚLIWE LINIE 484" title="SZCZĘŚLIWE LINIE 484"  width="72" height="36" /></span></div></div>
+						
+						
+						
+    					</div>
+    					<div class="page_bottom"></div>
+    				    </div>
+                                             
+				    
+
+
+
+				        				</div>
+    			    </div>
+			    			    
+			    <div class="footerBox">
+								      
+<div id="block-block-60" class="content_block_bottom_social">
+    <div class="block_top"></div>
+        <!--?php global $base_path ?-->
+<div class="socialBox hidden-lg-down">
+	<a class="social_link_footer d-table float-left" href="http://twitter.com/lotto_pl" target="_blank">
+					<img class="img-fluid" alt="" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/images/social/twiter.png" />
+			</a>
+	<a class="social_link_footer d-table float-left" href="http://www.youtube.com/TotalizatorSportowy" target="_blank">
+					<img alt="" src="https://lottocdn.directtraffic.pl/sites/all/themes/basic/images/social/youtube.png" class="img-fluid"/>
+			</a>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write('<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Flotto.pl&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=137004966400663" style="border:none; overflow:hidden; width:119px; height:20px;" znajomym=""></iframe>')
+//--><!]]>
+</script>
+
+ </div>    </div>
+								<hr/>
+								        				<div class="moreContent hidden-xl-up">
+    				    <a class="openMoreFooter">
+    					WIĘCEJ<i class="fa fa-caret-up hidden-xl-up"></i>
+    				    </a>
+    				    <a>
+    					ZWIŃ<i class="fa fa-caret-down hidden-xl-up"></i>
+    				    </a>
+    				</div>
+
+
+    				<div class="infoBox hidden-lg-down">
+    				    <div class="row">
+					      <div class="col-xl-4">
+    	<div class="row">    						
+<div class="col-2 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/telefon_footer_icon.svg" alt="" class="img-fluid">
+    						</div>
+    						<div class="col-10 textInfo">
+    						    <h3>
+    							Infolinia 801 450 450
+    						    </h3>
+<h3>
+    							Biuro Obsługi Klienta 459 59 99 95
+    						    </h3>
+    						    <p>Opłata za połączenie jest zgodna z planem taryfikacyjnym
+    							danego operatora.</p>
+    						</div>
+	</div>    </div>  <div class="col-xl-4">
+        					    <div class="row">
+    						<div class="col-2 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/sale_icon1.svg" alt="" class="img-fluid">
+    						</div>
+    						<div class="col-10 textInfo">
+    						    <h3>
+    							<a href="/lotto/mapa-kolektur">
+    							    Punkty sprzedaży
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="/lotto/mapa-kolektur">
+    							    Gry LOTTO są do kupienia wyłącznie w sieci kolektur
+    							    opatrzonych logo LOTTO.
+    							</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>  <div class="col-xl-4">
+    <div class="row">
+    						<div class="col-2 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/offline_footer_icon2.svg" alt="" class="img-fluid">
+    						</div>
+    						<div class="col-10 textInfo">
+    						    <h3>
+    							Zakłady w punktach LOTTO i na lotto.pl
+
+    						    </h3>
+    						    <p>
+    							Totalizator Sportowy, właściciel marki LOTTO, sprzedaje swoje produkty wyłącznie w punktach opatrzonych logo LOTTO oraz na stronie lotto.pl.
+    						    </p>
+    						</div>
+    					    </div>    </div>  <div class="col-xl-4">
+    <div class="row">
+    						<div class="col-2 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/culture_icon1.svg" alt="" class="img-fluid">
+    						</div>
+    						<div class="col-10 textInfo">
+    						    <h3>
+    							<a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie">
+    							    Wspieramy sport i kulturę
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie">Każda złotówka Gracza LOTTO to 19 gr dla polskiego
+    							    sportu i kultury.</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>  <div class="col-xl-4">
+     <div class="row">
+    						<div class="col-2 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/sponsorship_offer_icon.svg" alt="" class="img-fluid">
+    						</div>
+    						<div class="col-10 textInfo">
+    						    <h3>
+    							<a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">
+    							    Złóż ofertę sponsoringową
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">Totalizator Sportowy prowadzi działalność sponsoringową,
+    							    zgodnie z przyjętą strategią komunikacji, na podstawie
+    							    wpływających ofert.</a>
+
+    						    </p>
+    						</div>
+    					    </div>
+
+    </div>  <div class="col-xl-4">
+        								<div class="row">
+    								    <div class="col-2 picInfo">
+    									<img src="/sites/all/themes/basic/images/svg/18_footer_icon.svg" alt="" class="img-fluid ">
+    								    </div>
+    								    <div class="col-10 textInfo">
+    									<h3>
+    									    <a href="http://www.totalizator.pl/zaangazowanie/csr/bezpieczna-rozrywka" target="_blank">
+    										Tylko 18+
+    									    </a>
+
+    									</h3>
+    									<p>
+    									    <a href="http://www.totalizator.pl/zaangazowanie/csr/bezpieczna-rozrywka" target="_blank">Zgodnie z obowiązującym prawem w gry liczbowe mogą grać
+    										wyłącznie osoby, które ukończyły 18. rok życia.</a>
+
+    									</p>
+    								    </div>
+    								</div>    </div>    				    </div>
+    				</div>
+    				<div class="infoBox hidden-xl-up ">
+    				    <div class="row owl-carousel">
+					      
+<div id="block-block-106" class="">
+    <div class="block_top"></div>
+            					    <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/telefon_footer_icon.svg" alt="" class="img-fluid tel">
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							Infolinia 801 450 450
+    						    </h3>
+    						    <p>Opłata za połączenie jest zgodna z planem taryfikacyjnym
+    							danego operatora.</p>
+    						</div>
+    					    </div>
+    </div>
+  
+<div id="block-block-107" class="">
+    <div class="block_top"></div>
+        <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/sale_icon.svg" alt="" class="img-fluid mapa" />
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							<a href="/lotto/mapa-kolektur">
+    							    Punkty sprzedaży
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="/lotto/mapa-kolektur">
+    							    Gry LOTTO są do kupienia wyłącznie w sieci kolektur
+    							    opatrzonych logo LOTTO.
+    							</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>
+  
+<div id="block-block-108" class="">
+    <div class="block_top"></div>
+        <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/offline_footer_icon2.svg" alt="" class="img-fluid offline"/>
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							Zakłady w punktach LOTTO i na lotto.pl
+
+    						    </h3>
+    						    <p>
+    							Totalizator Sportowy, właściciel marki LOTTO, sprzedaje swoje produkty wyłącznie w punktach opatrzonych logo LOTTO oraz na stronie lotto.pl.
+    						    </p>
+    						</div>
+    					    </div>    </div>
+  
+<div id="block-block-109" class="">
+    <div class="block_top"></div>
+        <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/culture_icon.svg" alt="" class="img-fluid culture" />
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							<a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie">
+    							    Wspieramy sport i kulturę
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="http://www.totalizator.pl/zaangazowanie/zaangaowanie">Każda złotówka Gracza LOTTO to 19 gr dla polskiego
+    							    sportu i kultury.</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>
+  
+<div id="block-block-110" class="">
+    <div class="block_top"></div>
+        <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/sponsorship_offer_icon.svg" alt="" class="img-fluid sponsorship"/>
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							<a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">
+    							    Złóż ofertę sponsoringową
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="http://www.totalizator.pl/zaangazowanie/sponsoring" target="_blank">
+Totalizator Sportowy prowadzi działalność sponsoringową,
+    							    zgodnie z przyjętą strategią komunikacji, na podstawie
+    							    wpływających ofert.</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>
+  
+<div id="block-block-111" class="">
+    <div class="block_top"></div>
+        <div class="row">
+    						<div class="col-sm-2 col-3 picInfo">
+    						    <img src="/sites/all/themes/basic/images/svg/18_footer_icon.svg" alt="" class="img-fluid adult"/>
+    						</div>
+    						<div class="col-sm-10 col-9 textInfo">
+    						    <h3>
+    							<a href="http://www.totalizator.pl/zaangazowanie/csr/bezpieczna-rozrywka" target="_blank">
+    							    Tylko 18+
+    							</a>
+
+    						    </h3>
+    						    <p>
+    							<a href="http://www.totalizator.pl/zaangazowanie/csr/bezpieczna-rozrywka" target="_blank">Zgodnie z obowiązującym prawem w gry liczbowe mogą grać
+    							    wyłącznie osoby, które ukończyły 18. rok życia.</a>
+
+    						    </p>
+    						</div>
+    					    </div>    </div>
+    				    </div>
+    				</div>
+												      <div id="cookiesBar" style="display:none">
+<div id="cookiesBarWrap">
+<p>Strona korzysta z plików cookie w celu realizacji usług zgodnie z <a href="/polityka-plikow-cookies" title="Polityka prywatności">Polityką prywatności</a>.</p>
+<p>Możesz określić warunki przechowywania lub dostępu do cookie w Twojej przeglądarce lub konfiguracji usługi.</p>
+<div id="cookiesBarClose">&nbsp;</div>
+</div>
+</div>
+								<hr/>
+				    				<div class="footerMenu">
+					  
+<div id="block-block-10" class="copyright_block_footer">
+    <div class="block_top"></div>
+        <p>Copyright 2018 – Lotto</p>
+    </div>
+  <div class="menu-block-2 menu-name-menu-stopka parent-mlid-0 menu-level-1">
+  <div  class=""><div class="leaf first menu-mlid-920 totalizator-pl"><a href="http://totalizator.pl" target="_blank">Totalizator.pl</a></div>
+<div class="leaf menu-mlid-2085 kariera"><a href="https://www.totalizator.pl/wspolpraca/kariera" target="_blank">Kariera</a></div>
+<div class="leaf menu-mlid-2083 media"><a href="http://www.totalizator.pl/media" target="_blank">Media</a></div>
+<div class="leaf menu-mlid-2084 wsp-praca"><a href="https://www.totalizator.pl/wspolpraca/kariera" target="_blank">Współpraca</a></div>
+<div class="leaf last menu-mlid-2086 zaanga-owanie"><a href="http://www.totalizator.pl/zaangazowanie " target="_blank">Zaangażowanie</a></div>
+</div></div>
+ 
+  <div class="menu-block-3 menu-name-menu-mapa-strony parent-mlid-0 menu-level-1">
+  <div  class=""><div class="leaf first menu-mlid-19684 kontakt"><a href="/kontakt">Kontakt</a></div>
+<div class="leaf menu-mlid-22145 reklamacje"><a href="/kontakt/reklamacje">Reklamacje</a></div>
+<div class="leaf menu-mlid-937 mapa_strony"><a href="/mapa-strony" class="sitemap_menu">Mapa Strony</a></div>
+<div class="leaf last menu-mlid-19899 regulamin_serwisu"><a href="/regulamin-serwisu-lotto" title="Polityka prywatności" target="_blank">Regulamin serwisu</a></div>
+</div></div>
+ 
+  <div  class=""><div class="leaf first last tor_s-u-ewiec"><a href="http://www.torsluzewiec.pl" class="tor_sluzewiec" target="_blank">Tor Służewiec</a></div>
+</div> 
+    				</div>
+				
+			    </div>
+			</div>
+		    </div>
+	    </section>
+	</div>
+	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-8741095-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+		<div class="fixedFacebook hidden-lg-down">
+	    <a href="https://www.facebook.com/markaLOTTO/" target="_blank"
+	       onclick="javascript:_gaq.push(['_trackEvent', 'Facebook', 'Badge']);" id="fb">Dołącz do nas na<i
+		    class="fa fa-facebook-official"></i> </a>
+	</div>
+		<div id='klauzula_informacyjna_nakladka' style='display: none; position: fixed; top: 0; left: 0; background: rgba(0, 0, 0, 0.4); width: 100%; height: 100%; z-index: 9999;'>
+		<div style='width: 100%; max-width: 930px; height: 50%; background: #fff; margin: 0 auto; border: 15px solid #f4c900; transform: translateY(-50%); position: relative; top: 50%;'>
+			<div style='font-size: 14px; margin: 20px; height: calc(100% - 120px); overflow-y: scroll;'>
+				<p>Szanowny Użytkowniku,</p>
+				<p>zgodnie z art. 13 ust. 1 i ust. 2 Ogólnego Rozporządzenia o ochronie danych osobowych z dnia 27 kwietnia 2016 r. chcielibyśmy poinformować Cię o sposobach oraz zasadach przetwarzania Twoich danych osobowych na stronach naszego serwisu.</p>
+				<p>Administratorem Twoich danych osobowych jest Totalizator Sportowy spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie, ul. Targowa 25, 03-728 Warszawa, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m.st. Warszawy w Warszawie, Wydział XIII Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS: 0000007411, REGON: 012862749, NIP: 5250010982.</p>
+				<p>Twoje dane osobowe przetwarzamy w celu:</p>
+				<ul>
+				<li>zapewnienia obsługi kanału newsletter,</li>
+				<li>realizacji działań marketingowych i sprzedażowych, o ile wcześniej wyraziłeś na to zgodę,</li>
+				<li>zapewnienia działania oraz dalszego rozwoju naszego serwisu, w tym właściwego zabezpieczenia Twoich danych osobowych,</li>
+                                <li>dopasowania treści naszych stron internetowych do Twoich preferencji (aby zrezygnować z profilowania <a href="/profil/uzytkownika">zaloguj się</a> lub <a href="/konfiguracja-przegladarki">sprawdź jak skonfigurować przeglądarkę</a>).</li>
+				</ul>
+				<p>Twoje dane osobowe mogą być przekazywane innym podmiotom współpracującym z Totalizatorem Sportowym Sp. z o.o., w tym:</p>
+				<ul>
+				<li>Spółkom zależnym współpracującym z Totalizatorem Sportowym Sp. z o.o.</li>
+				<li>dostawcom systemów IT, z którymi współpracujemy</li>
+				<li>zewnętrznym firmom marketingowym oraz kancelariom prawnym</li>
+				<li>podmiotom konsultingowym oraz audytorom</li>
+				<li>upoważnionym podmiotom na udokumentowany wniosek, np. policji.</li>
+				</ul>
+				<p>Posiadasz prawo dostępu do treści swoich danych oraz prawo ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do przenoszenia danych i prawo wniesienia sprzeciwu wobec przetwarzania.</p>
+				<p>Dane, na przetwarzanie których wyraziłeś zgodę zostaną niezwłocznie usunięte po wycofaniu przez Ciebie udzielonej wcześniej zgody. Swoimi danymi osobowymi możesz zarządzać z poziomu konta użytkownika.</p>
+				<p>Dane osobowe będą przechowywane przez okres umożliwiający ochronę roszczeń na podstawie obowiązujących przepisów prawa.</p>
+				<p>Posiadasz ponadto prawo wniesienia skargi do właściwego organu nadzorczego w zakresie ochrony danych osobowych gdy uznasz, iż przetwarzanie Twoich danych osobowych narusza przepisy o ochronie danych osobowych, w tym przepisy Ogólnego Rozporządzenia o ochronie danych osobowych z dnia 27 kwietnia 2016 r.</p>
+				<p>Wszelkie informacje dotyczące przetwarzania Twoich danych osobowych, w tym realizację praw wynikających z przetwarzania danych uzyskasz wysyłając e-mail na adres: iod@totalizator.pl</p>
+			</div>
+			<div id='klauzula_informacyjna_open' style='margin: 20px; display: inline-block;'>
+				<div style='font-size: 18px; color: #401b01; background: #f4c900; border-radius: 5px; margin: 0 auto; line-height: 45px; cursor: pointer; padding: 0 20px;'>Przejdź do serwisu</div>
+			</div>
+			<a href="/regulamin-serwisu-lotto" title="Polityka prywatności" target="_blank" style="color: #474747; font-size: 11px; font-family: Tahoma; float: right; margin: 40px 20px; text-decoration: underline;">Regulamin serwisu</a>
+		</div>
+	</div>
+		<script>
+	if (localStorage.klauzula_informacyjna != '1') {
+	$('#klauzula_informacyjna_nakladka').show();
+	}
+	$('#klauzula_informacyjna_open').click(function () {
+	$('#klauzula_informacyjna_nakladka').hide();
+	localStorage.setItem('klauzula_informacyjna', '1');
+	});
+	</script>
+
+    </body>
+</html>
